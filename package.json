@@ -16,7 +16,6 @@
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
     "express-session": "^1.15.4",
-    "json-stringify": "^1.0.0",
     "request": "^2.81.0"
   }
 }
