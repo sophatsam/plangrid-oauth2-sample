@@ -1,0 +1,22 @@
+{
+  "name": "plangrid-oauth2-sample",
+  "version": "1.0.0",
+  "description": "Sample code for authenticating with OAuth2 using PlanGrid API",
+  "main": "index.js",
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.10"
+  },
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "author": "sophat@plangrid.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "express-session": "^1.15.4",
+    "json-stringify": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
