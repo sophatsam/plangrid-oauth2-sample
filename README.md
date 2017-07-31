@@ -1,4 +1,4 @@
-This sample application shows how you can authenticate with OAuth2.0 for the PlanGrid API. More details about OAuth for PlanGrid can be found on the [developer site](https://developer.plangrid.com/docs/getting-started-with-oauth).
+This sample application shows how you use OAuth2.0 to authenticate with the PlanGrid API. More details about OAuth for PlanGrid can be found on the [developer site](https://developer.plangrid.com/docs/getting-started-with-oauth).
 
 ### To run locally:
 1. Clone this repository using `git clone https://github.com/sophatsam/plangrid-oauth2-sample`.
